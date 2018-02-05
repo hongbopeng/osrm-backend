@@ -3,6 +3,7 @@
     - Bugfixes:
       - FIXED: Segfault in map matching when RouteLeg collapsing code is run on a match with multiple submatches
     - Guidance
+      - CHANGED #4854: Removed maneuverSucceededBySuppressedDirection collapsing scenario
       - CHANGED #4830: Announce reference change if names are empty
       - CHANGED #4835: MAXIMAL_ALLOWED_SEPARATION_WIDTH increased to 12 meters
     - Profile:
